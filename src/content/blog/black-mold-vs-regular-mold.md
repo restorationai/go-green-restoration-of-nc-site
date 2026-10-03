@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for black mold myself without a lab?", "answer": 
 published_at: "2026-07-15"
 services: ["mold-remediation"]
 rendered: true
+author: "Todd Wilkins"
 ---
 Most mold you find in a home is not the dangerous black mold you've heard about, but some of it is, and the color alone won't tell you which is which. Here's the short answer: *Stachybotrys chartarum*, the mold commonly called "toxic black mold," is dark greenish-black, slimy when wet, and almost always found on materials that stayed wet for at least a week or two. But plenty of harmless mold species are also black, and some genuinely hazardous molds are green, white, or gray. Telling them apart reliably requires lab testing, not a visual check. What you *can* do at home is assess the risk level and decide whether this is a DIY wipe-down or a call to a remediation professional.
 

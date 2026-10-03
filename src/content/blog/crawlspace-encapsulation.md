@@ -17,6 +17,7 @@ faq: [{"question": "What is crawlspace encapsulation and do I need it?", "answer
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Todd Wilkins"
 ---
 **TL;DR:** Crawlspace encapsulation means sealing the crawlspace with a heavy vapor barrier, insulating the walls, and controlling humidity with a dehumidifier or conditioned air, instead of leaving it open to outside moisture. In Smithfield, NC, where Neuse River humidity and low-lying streets push moisture up through open crawlspaces year-round, encapsulation typically runs $5,500 to $13,000 depending on square footage, drainage needs, and whether mold remediation is required first.
 

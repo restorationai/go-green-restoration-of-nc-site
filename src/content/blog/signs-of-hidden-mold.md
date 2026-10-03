@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for mold myself before calling a professional?", 
 published_at: "2026-07-15"
 services: ["mold-remediation"]
 rendered: true
+author: "Todd Wilkins"
 ---
 Hidden mold doesn't always announce itself with a visible black patch on the wall. More often, it grows quietly inside wall cavities, beneath flooring, above ceiling tiles, or behind bathroom vanities, places you'd never think to look until something tips you off. If you've had any water intrusion in the past year, noticed a persistent musty smell, or started experiencing unexplained allergy symptoms indoors, there's a real chance mold has already colonized a surface you can't see. Here are seven specific signs to look for, what each one means, and what to do about it.
 

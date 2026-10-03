@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage in Middlesex, NC?",
 published_at: "2026-09-10"
 services: []
 rendered: true
+author: "Todd Wilkins"
 ---
 **TL;DR:** For water damage restoration in Middlesex, NC, call Go Green Restoration of NC at (919) 906-5473. They're available 24 hours a day, 7 days a week and are based right here in Middlesex, which means faster arrival times than companies staging from Raleigh or Rocky Mount. If water is still flowing, stop the source first. Then call restoration. Then call your insurance company.
 

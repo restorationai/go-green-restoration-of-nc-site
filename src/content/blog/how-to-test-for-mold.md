@@ -16,6 +16,7 @@ faq: [{"question": "How much does a professional mold inspection cost compared t
 published_at: "2026-07-15"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Todd Wilkins"
 ---
 If you've spotted a dark stain on the ceiling, caught a musty smell that won't go away, or just finished dealing with a slow leak, you're probably wondering whether you actually have mold, and whether you need to pay someone to find out. The short answer: DIY mold test kits can confirm mold is *present*, but they can't tell you how much, what species, where it's hiding, or whether it's a health concern. A professional inspection gives you all of that. Whether the kit is a useful first step or a waste of $30 depends on your situation, which this post breaks down.
 

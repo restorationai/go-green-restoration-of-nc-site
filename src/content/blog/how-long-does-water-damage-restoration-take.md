@@ -16,6 +16,7 @@ faq: [{"question": "Can I stay in my home during the drying process?", "answer":
 published_at: "2026-07-07"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Todd Wilkins"
 ---
 Most water damage restoration jobs take **3 to 5 days** from the moment a crew arrives on-site to the point where your home is dry enough for repairs. That's the realistic middle of the range. A straightforward burst pipe in a single room with no hidden cavities might wrap up in 2 days. A slow leak behind a wall that went unnoticed for weeks, one that has soaked into floor joists, wicked up drywall, and started feeding mold, can stretch to 7 days or longer before the drying phase alone is finished. Reconstruction (replacing drywall, flooring, cabinetry) is a separate phase that follows drying and adds its own timeline.
 

@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowner's insurance typically cover water damage from
 published_at: "2026-07-25"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Todd Wilkins"
 ---
 If water is actively flooding your home right now, start here: **shut off the main water supply valve** (usually near the water meter or where the main line enters the house), cut power to any affected rooms at the breaker box, and move out of standing water. The decisions you make in the next 24 hours will determine how much of your home can be saved, and how large your repair bill grows. Mold can begin colonizing wet materials in as little as 24 to 48 hours. Structural wood starts to swell and warp within hours of saturation. Time is the variable you can actually control.
 

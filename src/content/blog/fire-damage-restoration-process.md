@@ -16,6 +16,7 @@ faq: [{"question": "Can I stay in my home during fire damage restoration?", "ans
 published_at: "2026-08-04"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Todd Wilkins"
 ---
 Fire leaves behind more than charred wood and ash. Even after the flames are out, the damage keeps spreading, smoke odor seeps into wall cavities, soot settles into HVAC ductwork, and acidic residue starts corroding metal surfaces within hours. Understanding the fire damage restoration process helps you know what to expect, ask the right questions, and avoid decisions that could make recovery harder or more expensive.
 

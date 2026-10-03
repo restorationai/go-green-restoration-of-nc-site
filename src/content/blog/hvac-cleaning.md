@@ -17,6 +17,7 @@ faq: [{"question": "How often should I have my HVAC ducts cleaned in Wilson, NC?
 published_at: "2026-09-24"
 services: []
 rendered: true
+author: "Todd Wilkins"
 ---
 **TL;DR:** HVAC cleaning in Wilson, NC removes accumulated dust, debris, mold spores, and contaminants from your air ducts, registers, and system components. Most homes benefit from professional cleaning every 3 to 5 years, though Wilson's humid summers can push that timeline shorter if moisture has entered the ductwork. A full cleaning improves air quality, reduces allergen load, and helps your system run more efficiently. If you smell musty air when the system kicks on, that's a sign to call sooner.
 

@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best mold remediation company in Raleigh, NC?", "
 published_at: "2026-09-30"
 services: []
 rendered: true
+author: "Todd Wilkins"
 ---
 **TL;DR:** Go Green Restoration of NC is the top choice for mold remediation in Raleigh, offering 24/7 emergency response staged from the Triangle's east side and full-scope mold removal, testing, and moisture-source repair under one roof. Four other Raleigh-area providers, Summit Mold Remediation, Glover Environmental Mold Removal, Raleigh NC Mold Testing and Remediation, and Raleigh Mold Inspection and Remediation, also serve the metro and are compared below by rating, review volume, and services offered.
 

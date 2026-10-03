@@ -17,6 +17,7 @@ faq: [{"question": "How much water in a crawl space is considered an emergency?"
 published_at: "2026-09-18"
 services: ["water-damage-restoration", "crawl-space-encapsulation"]
 rendered: true
+author: "Todd Wilkins"
 ---
 **TL;DR:** Water in your crawl space after heavy rain usually enters through poor drainage, a failed vapor barrier, or foundation vents left open during a storm. Remove standing water within 24-48 hours, check for wet insulation and vapor barrier damage, improve drainage if needed, and call a restoration professional if water is deeper than an inch or if you see mold growth. Mold can colonize wet wood and insulation in as little as 24-72 hours under humid conditions.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in NC?", "answer
 published_at: "2026-08-31"
 services: []
 rendered: true
+author: "Todd Wilkins"
 ---
 **TL;DR:** Water damage restoration in North Carolina typically costs $1,500 to $8,000 for most residential losses. Small, clean-water incidents (a burst supply line caught quickly) run $1,200 to $3,500. Large losses involving contaminated water, finished basements, or structural materials can reach $10,000 to $20,000 or more. Every loss is different, and Go Green Restoration of NC provides a written scope before any work begins.
 

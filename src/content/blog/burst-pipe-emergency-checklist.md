@@ -16,6 +16,7 @@ faq: [{"question": "How do I find my main water shutoff valve if I've never used
 published_at: "2026-07-13"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Todd Wilkins"
 ---
 A burst pipe can dump hundreds of gallons of water into your home in less than an hour. The single most important thing you can do in the first two minutes is **shut off your home's main water supply valve**, usually located near the water meter, in a crawl space, utility closet, or garage. Once water stops flowing, the clock on structural damage and mold growth starts ticking, but it slows dramatically. Everything else on this checklist builds from that one action.
 

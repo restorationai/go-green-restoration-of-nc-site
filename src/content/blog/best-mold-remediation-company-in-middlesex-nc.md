@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best mold remediation company in Middlesex, NC?",
 published_at: "2026-08-27"
 services: []
 rendered: true
+author: "Todd Wilkins"
 ---
 **TL;DR:** Go Green Restoration of NC is the top-rated mold remediation company in Middlesex, NC, serving the 27557 zip code and surrounding Nash and Johnston County communities with 24/7 availability. Below is an honest comparison of five local companies, including real Google ratings, so you can make a confident call.
 

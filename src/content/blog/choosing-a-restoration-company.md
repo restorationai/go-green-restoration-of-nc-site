@@ -16,6 +16,7 @@ faq: [{"question": "How quickly does mold actually start growing after a water l
 published_at: "2026-07-20"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Todd Wilkins"
 ---
 Choosing the wrong restoration company after a flood, fire, or mold discovery can cost you more than the original damage. Contractors who cut corners on drying, skip proper containment, or disappear mid-job leave homeowners with recurring mold, failed insurance claims, and repair bills that dwarf what a reputable crew would have charged. The short answer: vet credentials before you sign anything, get the scope of work in writing, and never let urgency, yours or theirs, rush you past basic due diligence. Here's how to do that without getting taken.
 
