@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Go Green Restoration of NC | Restoration Services in Middlesex, NC"
-h1: "Restoration Services in Middlesex"
-meta_description: "Go Green Restoration of NC provides water, fire, mold, and storm damage restoration across Middlesex and surrounding areas. Call (919) 906-5473."
-primary_keyword: "restoration services middlesex"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in Middlesex, NC | Go Green Restoration of NC"
+h1: "24/7 Water Damage Restoration in Middlesex, NC"
+meta_description: "Go Green Restoration of NC provides water damage restoration in Middlesex, NC, answering 24/7. Call (919) 906-5473 now."
+primary_keyword: "water damage restoration middlesex"
+secondary_keywords: ["best restoration company in middlesex", "restoration company middlesex", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "52be61a31509e9d2"
