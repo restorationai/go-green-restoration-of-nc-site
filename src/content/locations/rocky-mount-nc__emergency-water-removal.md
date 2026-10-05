@@ -17,7 +17,7 @@ area_slug: "rocky-mount-nc"
 service_slug: "emergency-water-removal"
 city: "Rocky Mount"
 state: "NC"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water spreading across your floors in Rocky Mount?** Call Go Green Restoration of NC now at (919) 906-5473 for emergency water removal. We answer 24/7, and every hour that water sits in a home near the Tar River basin is an hour closer to warped flooring, swollen baseboards, and the first signs of mold colonizing wall cavities.

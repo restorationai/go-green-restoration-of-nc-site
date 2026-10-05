@@ -17,7 +17,7 @@ area_slug: "lake-royale-nc"
 service_slug: "emergency-water-removal"
 city: "Lake Royale"
 state: "NC"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Lake Royale?** We answer 24/7. Lake Royale sits around a private, man-made lake in Franklin County, and that proximity to open water means flooding, pipe failures, and grading issues behave differently here than in a typical subdivision a few miles inland. Call Go Green Restoration of NC the moment you find standing water, and we'll start extraction and documentation as soon as we're on site.

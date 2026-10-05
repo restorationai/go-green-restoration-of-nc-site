@@ -17,7 +17,7 @@ area_slug: "raleigh-nc"
 service_slug: "emergency-water-removal"
 city: "Raleigh"
 state: "NC"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your Raleigh home right now?** Call (919) 906-5473, we answer 24/7. A supply line failure or a sewer backup doesn't wait for business hours, and neither does the damage: subfloor swells, drywall wicks moisture upward, and a crawlspace under a Five Points bungalow can go from damp to mold-ready faster than most homeowners expect. Fast extraction is what keeps a plumbing accident from becoming a gutted interior.
