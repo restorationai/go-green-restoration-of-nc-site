@@ -61,7 +61,7 @@ export const brand = {
   certifications: [] as string[],
   trustBadges: [] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://www.bbb.org/us/nc/middlesex/profile/restoration-companies/go-green-restoration-of-nc-0593-90323300", "https://www.angi.com/companylist/us/nc/zebulon/go-green-restoration-reviews-1.htm"] as string[],
+  sameAsUrls: ["https://gogreenrestorationofnc.com/service-areas/raleigh-nc/flood-damage-restoration/", "https://www.bbb.org/us/nc/middlesex/profile/restoration-companies/go-green-restoration-of-nc-0593-90323300", "https://www.homeadvisor.com/rated.Gogreen.163326768.html", "https://www.facebook.com/gogreenrestorationsofnc/", "https://gogreenrestorationofnc.com/service-areas/elm-city-nc/industrial-restoration/", "https://homeguide.com/nc/wilson/water-damage-restoration/go-green-restoration-of-nc-J3JJ01_O8"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "",
