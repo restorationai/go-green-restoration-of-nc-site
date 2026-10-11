@@ -27,7 +27,7 @@ You just discovered water damage, a burst pipe, a slow leak behind the washing m
 
 ## Can Mold Really Grow in 24 Hours?
 
-Yes. Mold spores can begin germinating and establishing colonies on wet porous materials within 24 to 48 hours under the right conditions. This is not a worst-case estimate, it is the standard guidance from the EPA and the basis for the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), which governs how professional water damage restoration is performed. The 48-hour figure assumes average indoor temperatures and humidity. Warmer, more humid conditions can compress that window.
+Yes. Mold spores can begin germinating and establishing colonies on wet porous materials within 24 to 48 hours under the right conditions. This is not a worst-case estimate, it is the standard guidance from the EPA and the basis for the [IICRC S500 standard](https://iicrc.org/s500/), which governs how professional water damage restoration is performed. The 48-hour figure assumes average indoor temperatures and humidity. Warmer, more humid conditions can compress that window.
 
 What the 24-48 hour figure means in practice: if water soaked into your drywall or subfloor on Monday morning and nobody addressed it until Wednesday, mold growth is likely already underway, even if you cannot see or smell it yet. Visible mold often does not appear until 3 to 7 days in. By then, the colony is already established.
 
