@@ -1,0 +1,266 @@
+{
+ "/service-areas/archer-lodge-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/archer-lodge-nc/air-duct-cleaning/",
+  "now": "/service-areas/archer-lodge-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/archer-lodge-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/archer-lodge-nc/carpet-cleaning/",
+  "now": "/service-areas/archer-lodge-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/archer-lodge-nc/water-cleanup": {
+  "planned": "/service-areas/archer-lodge-nc/emergency-water-removal/",
+  "now": "/service-areas/archer-lodge-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/clayton-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/clayton-nc/air-duct-cleaning/",
+  "now": "/service-areas/clayton-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/clayton-nc/water-cleanup": {
+  "planned": "/service-areas/clayton-nc/emergency-water-removal/",
+  "now": "/service-areas/clayton-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/durham-nc/water-cleanup": {
+  "planned": "/service-areas/durham-nc/emergency-water-removal/",
+  "now": "/service-areas/durham-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/elm-city-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/elm-city-nc/air-duct-cleaning/",
+  "now": "/service-areas/elm-city-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/elm-city-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/elm-city-nc/carpet-cleaning/",
+  "now": "/service-areas/elm-city-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/elm-city-nc/water-cleanup": {
+  "planned": "/service-areas/elm-city-nc/emergency-water-removal/",
+  "now": "/service-areas/elm-city-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/kenly-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/kenly-nc/air-duct-cleaning/",
+  "now": "/service-areas/kenly-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/kenly-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/kenly-nc/carpet-cleaning/",
+  "now": "/service-areas/kenly-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/kenly-nc/water-cleanup": {
+  "planned": "/service-areas/kenly-nc/emergency-water-removal/",
+  "now": "/service-areas/kenly-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/knightdale-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/knightdale-nc/air-duct-cleaning/",
+  "now": "/service-areas/knightdale-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/knightdale-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/knightdale-nc/carpet-cleaning/",
+  "now": "/service-areas/knightdale-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/knightdale-nc/water-cleanup": {
+  "planned": "/service-areas/knightdale-nc/emergency-water-removal/",
+  "now": "/service-areas/knightdale-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-royale-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/lake-royale-nc/air-duct-cleaning/",
+  "now": "/service-areas/lake-royale-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-royale-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/lake-royale-nc/carpet-cleaning/",
+  "now": "/service-areas/lake-royale-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/louisburg-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/louisburg-nc/air-duct-cleaning/",
+  "now": "/service-areas/louisburg-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/louisburg-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/louisburg-nc/carpet-cleaning/",
+  "now": "/service-areas/louisburg-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/louisburg-nc/water-cleanup": {
+  "planned": "/service-areas/louisburg-nc/emergency-water-removal/",
+  "now": "/service-areas/louisburg-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/nashville-nc/water-cleanup": {
+  "planned": "/service-areas/nashville-nc/emergency-water-removal/",
+  "now": "/service-areas/nashville-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pine-level-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/pine-level-nc/air-duct-cleaning/",
+  "now": "/service-areas/pine-level-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pine-level-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/pine-level-nc/carpet-cleaning/",
+  "now": "/service-areas/pine-level-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pine-level-nc/water-cleanup": {
+  "planned": "/service-areas/pine-level-nc/emergency-water-removal/",
+  "now": "/service-areas/pine-level-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/rolesville-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/rolesville-nc/air-duct-cleaning/",
+  "now": "/service-areas/rolesville-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/rolesville-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/rolesville-nc/carpet-cleaning/",
+  "now": "/service-areas/rolesville-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/rolesville-nc/water-cleanup": {
+  "planned": "/service-areas/rolesville-nc/emergency-water-removal/",
+  "now": "/service-areas/rolesville-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/selma-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/selma-nc/air-duct-cleaning/",
+  "now": "/service-areas/selma-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/selma-nc/water-cleanup": {
+  "planned": "/service-areas/selma-nc/emergency-water-removal/",
+  "now": "/service-areas/selma-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/smithfield-nc/water-cleanup": {
+  "planned": "/service-areas/smithfield-nc/emergency-water-removal/",
+  "now": "/service-areas/smithfield-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/spring-hope-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/spring-hope-nc/air-duct-cleaning/",
+  "now": "/service-areas/spring-hope-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/spring-hope-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/spring-hope-nc/carpet-cleaning/",
+  "now": "/service-areas/spring-hope-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/spring-hope-nc/water-cleanup": {
+  "planned": "/service-areas/spring-hope-nc/emergency-water-removal/",
+  "now": "/service-areas/spring-hope-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wake-forest-nc/water-cleanup": {
+  "planned": "/service-areas/wake-forest-nc/emergency-water-removal/",
+  "now": "/service-areas/wake-forest-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wendell-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/wendell-nc/air-duct-cleaning/",
+  "now": "/service-areas/wendell-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wendell-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/wendell-nc/carpet-cleaning/",
+  "now": "/service-areas/wendell-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wendell-nc/water-cleanup": {
+  "planned": "/service-areas/wendell-nc/emergency-water-removal/",
+  "now": "/service-areas/wendell-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wilson-nc/water-cleanup": {
+  "planned": "/service-areas/wilson-nc/emergency-water-removal/",
+  "now": "/service-areas/wilson-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wilson-s-mills-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/wilson-s-mills-nc/air-duct-cleaning/",
+  "now": "/service-areas/wilson-s-mills-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wilson-s-mills-nc/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/wilson-s-mills-nc/carpet-cleaning/",
+  "now": "/service-areas/wilson-s-mills-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wilson-s-mills-nc/water-cleanup": {
+  "planned": "/service-areas/wilson-s-mills-nc/emergency-water-removal/",
+  "now": "/service-areas/wilson-s-mills-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/youngsville-nc/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/youngsville-nc/air-duct-cleaning/",
+  "now": "/service-areas/youngsville-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/youngsville-nc/water-cleanup": {
+  "planned": "/service-areas/youngsville-nc/emergency-water-removal/",
+  "now": "/service-areas/youngsville-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/zebulon-nc/water-cleanup": {
+  "planned": "/service-areas/zebulon-nc/emergency-water-removal/",
+  "now": "/service-areas/zebulon-nc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
