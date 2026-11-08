@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Go Green Restoration of NC Restoration"
+title: "Service Areas | Go Green Restoration of NC"
 h1: "Areas We Serve"
 meta_description: "Go Green Restoration of NC provides restoration services across Middlesex and the surrounding region. Find your city."
 primary_keyword: "go agree restoration of nc service areas"
